@@ -1,0 +1,14 @@
+{
+    "Politics": ["election", "minister", "government", "policy", "parliament", "vote", "president"],
+    "Sports": ["match", "cricket", "football", "tournament", "goal", "team", "score"],
+    "Technology": ["ai", "robot", "software", "tech", "device", "coding", "programming", "internet", "machine learning"],
+    "Finance": ["stock", "market", "economy", "finance", "investment", "bank", "crypto", "inflation"],
+    "Entertainment": ["movie", "film", "bollywood", "actor", "actress", "song", "series", "show"],
+    "Education": ["school", "college", "university", "exam", "students", "learning"],
+    "Health": ["virus", "covid", "disease", "hospital", "treatment", "doctor", "health"],
+    "Science": ["research", "space", "nasa", "experiment", "biology", "physics", "astronomy"],
+    "Travel": ["flight", "tourism", "trip", "hotel", "journey", "travel"],
+    "Environment": ["climate", "pollution", "earth", "weather", "global warming"],
+    "Crime": ["murder", "theft", "police", "arrest", "criminal", "scam"],
+    "Business": ["startup", "company", "profit", "loss", "industry", "corporate"]
+}
